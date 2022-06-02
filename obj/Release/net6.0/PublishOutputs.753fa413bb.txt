@@ -1,0 +1,7 @@
+C:\Repos\test\demoapp\bin\Release\net6.0\publish\demoapp.exe
+C:\Repos\test\demoapp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Repos\test\demoapp\bin\Release\net6.0\publish\appsettings.json
+C:\Repos\test\demoapp\bin\Release\net6.0\publish\demoapp.dll
+C:\Repos\test\demoapp\bin\Release\net6.0\publish\demoapp.deps.json
+C:\Repos\test\demoapp\bin\Release\net6.0\publish\demoapp.runtimeconfig.json
+C:\Repos\test\demoapp\bin\Release\net6.0\publish\demoapp.pdb
